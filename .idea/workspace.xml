@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6af530be-a1fa-4653-a6fc-78a52a6d24f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DSP_Python2$multiProcessing.coverage" NAME="multiProcessing Coverage Results" MODIFIED="1579546887663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Optimized_Server_2.coverage" NAME="Optimized_Server_2 Coverage Results" MODIFIED="1579547366708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Optimized_Client.coverage" NAME="Optimized_Client Coverage Results" MODIFIED="1579547370184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Network.coverage" NAME="Network Coverage Results" MODIFIED="1579519083282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Discovery.coverage" NAME="Discovery Coverage Results" MODIFIED="1579514349614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Optimized_Server.coverage" NAME="Optimized_Server Coverage Results" MODIFIED="1579445823554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$player.coverage" NAME="player Coverage Results" MODIFIED="1579518927536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WheT1UZQ1hhXqwKcmSObTkeELo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NON-Recreational\aaa\DSP_Python2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NON-Recreational\aaa\DSP_Python2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.server_runner (1)">
+    <configuration name="client_runner (1)" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="DSP_Python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client_runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_runner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSP_Python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server_runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for savefile.testr" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="DSP_Python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;savefile.testr&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in importer.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="DSP_Python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/importer.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in savefile.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="DSP_Python2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/savefile.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server_runner (1)" />
+      <item itemvalue="Python.client_runner (1)" />
+      <item itemvalue="Python tests.pytest in savefile.py" />
+      <item itemvalue="Python tests.pytest for savefile.testr" />
+      <item itemvalue="Python tests.pytest in importer.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server_runner (1)" />
+        <item itemvalue="Python.client_runner (1)" />
+        <item itemvalue="Python tests.pytest in importer.py" />
+        <item itemvalue="Python tests.pytest for savefile.testr" />
+        <item itemvalue="Python tests.pytest in savefile.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af530be-a1fa-4653-a6fc-78a52a6d24f5" name="Default Changelist" comment="" />
+      <created>1578391380977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578391380977</updated>
+      <workItem from="1578391382150" duration="15668000" />
+      <workItem from="1578468682294" duration="2143000" />
+      <workItem from="1578555914719" duration="16614000" />
+      <workItem from="1578579791328" duration="359000" />
+      <workItem from="1578632398525" duration="2010000" />
+      <workItem from="1578666825542" duration="4187000" />
+      <workItem from="1578679205982" duration="383000" />
+      <workItem from="1578930376629" duration="2174000" />
+      <workItem from="1578946034321" duration="1966000" />
+      <workItem from="1579066180222" duration="750000" />
+      <workItem from="1579093087018" duration="3000" />
+      <workItem from="1579170492401" duration="1292000" />
+      <workItem from="1579186502591" duration="1297000" />
+      <workItem from="1579188147719" duration="11974000" />
+      <workItem from="1579273238292" duration="1503000" />
+      <workItem from="1579282114470" duration="991000" />
+      <workItem from="1579287546794" duration="174000" />
+      <workItem from="1579421284584" duration="14718000" />
+      <workItem from="1579458984935" duration="7014000" />
+      <workItem from="1579507799656" duration="15159000" />
+      <workItem from="1579604937011" duration="394000" />
+      <workItem from="1579605346714" duration="278000" />
+      <workItem from="1579605724428" duration="238000" />
+      <workItem from="1579606216727" duration="9000" />
+      <workItem from="1579606263847" duration="357000" />
+      <workItem from="1579606638463" duration="122000" />
+      <workItem from="1579613952152" duration="512000" />
+      <workItem from="1579628225350" duration="67000" />
+      <workItem from="1579942838636" duration="8027000" />
+      <workItem from="1579960014363" duration="1373000" />
+      <workItem from="1580017157191" duration="221000" />
+      <workItem from="1580032343132" duration="3000" />
+      <workItem from="1580032358799" duration="195000" />
+      <workItem from="1580054766469" duration="327000" />
+      <workItem from="1580200974954" duration="4958000" />
+      <workItem from="1580207769785" duration="733000" />
+      <workItem from="1580208515562" duration="18364000" />
+      <workItem from="1580228658879" duration="31000" />
+      <workItem from="1580290543970" duration="1002000" />
+      <workItem from="1580294174120" duration="5767000" />
+      <workItem from="1580309121428" duration="6491000" />
+      <workItem from="1580373947524" duration="822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580296665204">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580296665204" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1580374789463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580374789463" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1580374789463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580374789463" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1580374789462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580374789462" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1580374789463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580374789463" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1580211693753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580211693753" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1580211693753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580211693753" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1580211693753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580211693753" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1580211693753">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580211693753" />
+    <state x="461" y="183" key="SettingsEditor" timestamp="1580227458585">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580227458585" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580373948573">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580373948573" />
+    <state width="1218" height="500" key="javadoc.popup.new" timestamp="1580312678553">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1218" height="500" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1580312678553" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSP_Python2$runner1.coverage" NAME="runner1 Coverage Results" MODIFIED="1580213533887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$pytest_for_savefile_testr.coverage" NAME="pytest for savefile.testr Coverage Results" MODIFIED="1580296565898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$serverRunner.coverage" NAME="serverRunner Coverage Results" MODIFIED="1580206995093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$client_runner__1_.coverage" NAME="client_runner (1) Coverage Results" MODIFIED="1580315118577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$savefile.coverage" NAME="savefile Coverage Results" MODIFIED="1579951937628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$runner__1_.coverage" NAME="runner (1) Coverage Results" MODIFIED="1580213467260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Optimized_Server_2.coverage" NAME="Optimized_Server_2 Coverage Results" MODIFIED="1580213179280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$pytest_in_savefile_py.coverage" NAME="pytest in savefile.py Coverage Results" MODIFIED="1580296559599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$pytest_in_importer_py.coverage" NAME="pytest in importer.py Coverage Results" MODIFIED="1580296593673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$multiprocessing__1_.coverage" NAME="multiprocessing (1) Coverage Results" MODIFIED="1580208410897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Optimized_Client.coverage" NAME="Optimized_Client Coverage Results" MODIFIED="1580206467757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$Discovery.coverage" NAME="Discovery Coverage Results" MODIFIED="1580200997248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$server_runner__1_.coverage" NAME="server_runner (1) Coverage Results" MODIFIED="1580374777487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$multiProcessing.coverage" NAME="multiProcessing Coverage Results" MODIFIED="1580208064319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSP_Python2$multiProcessing__1_.coverage" NAME="multiProcessing (1) Coverage Results" MODIFIED="1580211796234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
